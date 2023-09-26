@@ -1,4 +1,4 @@
 <?php
-echo "VERSION: 1 <br><br>";
+echo "VERSION: 2 \n";
 echo "POD IP: ".$_SERVER['SERVER_ADDR'];
 ?>
